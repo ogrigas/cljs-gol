@@ -1,4 +1,4 @@
-(ns quil-cljs-demo.core
+(ns gol.core
   (:require [quil.core :as q :include-macros true]
             [quil.middlewares.fun-mode :refer [fun-mode]]))
 
